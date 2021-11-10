@@ -1,0 +1,14 @@
+p{
+  color: #556B2F;
+  background-color: #5F9EA0;
+  border: 2px black solid;
+  font-family: Arial, Helvetica;
+  font-weight: bold;
+  font-size: 1.5em;
+  text-align: center;
+}
+h1{
+  color: darkblue;
+  font-size: 3em;
+  font-style: italic;
+}
